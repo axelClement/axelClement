@@ -1,11 +1,15 @@
-![Text alternatif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.fQqa6ZCfmEatseXTSIIMuwHaFP%26pid%3DApi&f=1&ipt=78f1d0b41987ab14e891efe5c412cae0ae64c7b119470a52d1d816e82b911e95&ipo=images)
-- 👋 Hi, I’m @axelClement
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋🏾 welcome to my Github! 
 
-<!---
-axelClement/axelClement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif">
+</p>
+
+
+## <img width="50" src="https://media.giphy.com/media/U22HxRRRXQDHrRwxz7/giphy.gif"> I am currently studying at **ECE** with great teachers! <img width="50" src="https://media.giphy.com/media/LY7RTbrtVfuT01MenI/giphy.gif">
+
+<p align="right">
+  <img width="450" src="https://media.giphy.com/media/U9FoAjJnHqHTAX2tDM/giphy.gif">
+  <img width="450" src="https://media.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.gif">
+</p>
+
+## <img width="30" src="https://media.giphy.com/media/QACOVFrnxWgkkm9vAb/giphy.gif"> **Also** I can write a bit in C and Python 🐍  
