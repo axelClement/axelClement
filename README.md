@@ -1,15 +1,10 @@
-# Hi there 👋🏾 welcome to my Github! 
+# Salut ! Je suis Axel Clément
+Je suis étudiant ingénieur en M1 Data & Intelligence Artificielle à l'ECE Paris et ancien sportif de haut niveau. Je me spécialise dans l'analyse de données, le Machine Learning et la Business Intelligence.
+Ce GitHub me sert à documenter mes explorations techniques, algorithmiques et analytiques.
 
-<p align="center">
-  <img width="450" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif">
-</p>
+*(Note : Certains de mes projets applicatifs majeurs ont été réalisés en équipe sur des dépôts privés, mais je suis toujours ravi d'en discuter en détail !)*
 
-
-## <img width="50" src="https://media.giphy.com/media/U22HxRRRXQDHrRwxz7/giphy.gif"> I am currently studying at **ECE** with great teachers! <img width="50" src="https://media.giphy.com/media/LY7RTbrtVfuT01MenI/giphy.gif">
-
-<p align="right">
-  <img width="350" src="https://media.giphy.com/media/U9FoAjJnHqHTAX2tDM/giphy.gif">
-  <img width="350" src="https://media.giphy.com/media/qlOso7alCUTiAX7aG5/giphy.gif">
-</p>
-
-## <img width="30" src="https://media.giphy.com/media/QACOVFrnxWgkkm9vAb/giphy.gif"> **Also** I can write a bit in C and Python 🐍  
+## Me contacter
+Vous recherchez un profil analytique, rigoureux et avec un fort sens du produit pour un stage de 4 à 5 mois partir d'avril 2026 ? Discutons-en !
+- **LinkedIn** : [axelclément](https://linkedin.com/in/axelclément)
+- **Email** : [axelclement.val@gmail.com](mailto:axelclement.val@gmail.com)
